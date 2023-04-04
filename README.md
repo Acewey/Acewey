@@ -1,4 +1,4 @@
-# ♣ Ouhinad Ouaasim (Ace)
+# ♣ Ouhinad Ouassim (Ace)
 
 **`Full Stack Developer | Salesforce Developer (Trailhead Mountaineer)`**
 
